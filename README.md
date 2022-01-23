@@ -28,3 +28,17 @@ here is an example of a gigamap i made for the class Design Thinking for Complex
 
 not the most elegant dataviz, but i hope that through taking this class i can learn some of the tools to create something a little more pleasing to the eye :)
 
+# Portfolio
+here is where i will post all of my projects, both for class and for stuff that i find interesting!
+
+## dataviz critique
+
+
+## dataviz no.1
+
+
+## sketches & practice
+
+
+## final project
+
