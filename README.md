@@ -38,8 +38,6 @@ here is where i will post all of my projects, both for class and for stuff that 
 
 This is a visualization showing the government debt-to-GDP ratio for ten member states of the Organization for Economic Cooperation and Development (OECD). Taken from the OECD website. 
 
-<iframe src="https://data.oecd.org/chart/6BeA" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BeA" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
-
 ## sketches & practice
 
 
