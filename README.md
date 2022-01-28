@@ -34,12 +34,11 @@ here is where i will post all of my projects, both for class and for stuff that 
 ## dataviz critique
 
 
-## dataviz no.1: visualizing 
+## dataviz no.1: visualizing government debt relative to GDP
 
 This is a visualization showing the government debt-to-GDP ratio for ten member states of the Organization for Economic Cooperation and Development (OECD). Taken from the OECD website. 
 
 <img width="858" alt="OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years" src="https://user-images.githubusercontent.com/98067398/151629530-51e920ad-4467-4ce7-84ec-d96f3459d716.png">
-
 
 
 ## sketches & practice
