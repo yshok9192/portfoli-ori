@@ -36,13 +36,18 @@ here is where i will post all of my projects, both for class and for stuff that 
 
 ## dataviz no.1: visualizing government debt relative to GDP
 
-This assignment focused on visualizing the government debt-to-GDP ratio for member states of the Organization for Economic Cooperation and Development (OECD). All three of these data visualizations share a common quality, reflected in the 
+This assignment focused on visualizing the government debt-to-GDP ratio for member states of the Organization for Economic Cooperation and Development (OECD). All three of these data visualizations show an overall increase among OECD nations in their debt as a percentage of GDP, a [useful measure](https://data.oecd.org/gga/general-government-debt.htm) of the general economic health of each nation. 
 
 [OECD data showing nations' government debt-to-GDP, presented as a bar chart](/Dataviz_1.md)
 
-[the same, but as graphs that show the general increase in the ratio per country from 1995-2020](/Dataviz_2.md) 
+On the OECD website there is an interactive chart where one can select countries to focus on, and even compare to draw conclusions as necessary regarding how well one is doing compared to others. However, it can only show so much in a bar chart and be accessible to the lay public--someone with little knowledge of governmental debt's role in a nation's economy can hover over the United States bar and see that in 2020 its general governmental debt was 162% of GDP, and without more context walk away not fully understanding what that means. The eye jumps immediately to the right side of the graph, which may distort the story that these data are trying to tell. 
+
+[the same, but as line charts that show the general increase in the ratio per country from 1995-2020](/Dataviz_2.md) 
+
+Line charts, in my opinion, better portray trends over time than bar charts--this is an imperfect way to present these data, as the charts are small and don't feature as much granular information, but one look at them and you can see how different each country's Debt-to-GDP ratio changes over the years. A grouping by region could tell us even more about economic health and activity around the world, but in general these charts are a helpful tool.
 
 [and here is the data in a packed circle diagram](/Dataviz_3.md)
+
 
 ## sketches & practice
 
