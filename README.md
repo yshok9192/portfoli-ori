@@ -44,7 +44,7 @@ This assignment focused on visualizing the government debt-to-GDP ratio for memb
 
 [the same, but as graphs that show the general increase in the ratio per country from 1995-2020](/Dataviz_1.md) 
 
-[and here is the data in a packed circle diagram](/Dataviz2.md)
+[and here is the data in a packed circle diagram](/Dataviz_3.md)
 
 ## sketches & practice
 
