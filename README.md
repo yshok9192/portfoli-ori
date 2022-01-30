@@ -38,8 +38,7 @@ here is where i will post all of my projects, both for class and for stuff that 
 
 This assignment focused on visualizing the government debt-to-GDP ratio for member states of the Organization for Economic Cooperation and Development (OECD).
 
-
-
+[OECD data showing nations' government debt-to-GDP, presented as a bar chart](/Dataviz_1.md)
 
 [the same, but as graphs that show the general increase in the ratio per country from 1995-2020](/Dataviz_2.md) 
 
