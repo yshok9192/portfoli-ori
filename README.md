@@ -48,6 +48,7 @@ Line charts, in my opinion, better portray trends over time than bar charts--thi
 
 [and here is the data in a packed circle diagram](/Dataviz_3.md)
 
+I struggled to find a visualization method that would capture the complexity of the data and would not be overly complicated. Specifically, I wanted to present these data in such a way that someone coming across them could intuitively tell how countries' Debt-to-GDP ratio grows and shrinks over time--especially after the 2008-9 financial crash. This packed circle graph felt closest to accomplishing my goal: each circle changes in size from year to year, and the time slider adds an animation element to the story. Countries with larger economies, like Japan and the United States, engage in large-scale borrowing to fund critical social services and other governmental projects, but Greece's high Debt-to-GDP ratio could indicate a return to pre-Eurozone crisis economic stability as it no longer needs to implement harsh austerity measures.
 
 ## sketches & practice
 
