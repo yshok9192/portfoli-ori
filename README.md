@@ -36,13 +36,12 @@ here is where i will post all of my projects, both for class and for stuff that 
 
 ## dataviz no.1: visualizing government debt relative to GDP
 
-This assignment focused on visualizing the government debt-to-GDP ratio for member states of the Organization for Economic Cooperation and Development (OECD). Taken from the OECD website. 
-
-<iframe src="https://data.oecd.org/chart/6Bgz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bgz" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years</a></iframe>
+This assignment focused on visualizing the government debt-to-GDP ratio for member states of the Organization for Economic Cooperation and Development (OECD).
 
 
 
-[the same, but as graphs that show the general increase in the ratio per country from 1995-2020](/Dataviz_1.md) 
+
+[the same, but as graphs that show the general increase in the ratio per country from 1995-2020](/Dataviz_2.md) 
 
 [and here is the data in a packed circle diagram](/Dataviz_3.md)
 
