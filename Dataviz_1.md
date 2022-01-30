@@ -1,2 +1,4 @@
-<iframe src="https://data.oecd.org/chart/6BkM" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BkM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 1995 – 2020</a></iframe>
-Data taken from the OECD website.
+Data taken from the OECD website. A very general bar chart of each country's overall government debt as a percentage of their GDP. Note, for example, that Japan's Debt-to-GDP ratio is far and away the most stark, although this may not be cause for alarm -- Japan is a high-income country with a relatively high population so the government may borrow and go into debt to fund services and projects that will produce a return on their investment. This ratio is not the whole story for any country, but can give viewers a sense of where the trend is going.
+
+
+<iframe src="https://data.oecd.org/chart/6BkS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BkS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years</a></iframe>
