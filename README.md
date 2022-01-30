@@ -34,17 +34,15 @@ here is where i will post all of my projects, both for class and for stuff that 
 ## dataviz critique
 
 
-## dataviz no.1
-
-### visualizing government debt relative to GDP
+## dataviz no.1: visualizing government debt relative to GDP
 
 This is a visualization showing the government debt-to-GDP ratio for ten member states of the Organization for Economic Cooperation and Development (OECD). Taken from the OECD website. 
 
 <iframe src="https://data.oecd.org/chart/6Bgz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bgz" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years</a></iframe>
 
-[the same, but as some graphs] (/Dataviz1.md) 
+[the same, but as graphs that show the general increase in the ratio per country from 1995-2020](/Dataviz_1.md) 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8552278"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[and here is the data in a packed circle diagram](/Dataviz2.md)
 
 ## sketches & practice
 
