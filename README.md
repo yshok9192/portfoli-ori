@@ -17,7 +17,6 @@ my museum background is visitor services but am hoping to get more experience in
 
 i am very interested in the intersection of museum work and [Diversity, Equity, Accessibility, and Inclusion](https://www.aam-us.org/category/diversity-equity-inclusion-accessibility/) -- or DEAI -- issues. The last few years have seen a huge shift in American life around how we talk about race and equality, and i believe that the way I can best be part of that shift is advocating for more DEAI-oriented work within museums and cultural institutions.
 > *fun fact: another common acronym is JEDI - Justice, Equity, Diversity, and Inclusion*
-> ![turtle jedi](https://media2.giphy.com/media/ys2SDO6BgXjvG/giphy.gif?cid=790b76115d0d10854cea2b6d9bf6200e2b9b6abaced2480a&rid=giphy.gif&ct=g)
 
 ## what i hope to learn in Telling Stories With Data
 
@@ -33,6 +32,9 @@ here is where i will post all of my projects, both for class and for stuff that 
 
 ## dataviz critique
 
+A large portion of this course will focus on identifying areas in various data visualizations and figuring out how they could be better presented so the end user understands the data. It's important to critique dataviz of all kinds, using a critical eye to help everyone make better visualizations!
+
+[Here is the first of those critiques]
 
 ## dataviz no.1: visualizing government debt relative to GDP
 
