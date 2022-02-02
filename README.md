@@ -54,6 +54,10 @@ I struggled to find a visualization method that would capture the complexity of 
 
 ## sketches & practice
 
+### Tableau Practice
+
+[My foray into using Tableau!](/Dataviz_Tableau_1)
+
 
 ## final project
 
