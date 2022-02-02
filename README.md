@@ -56,7 +56,7 @@ I struggled to find a visualization method that would capture the complexity of 
 
 ### Tableau Practice
 
-[My foray into using Tableau!](/Dataviz_Tableau_1)
+[My foray into using Tableau!](/Dataviz_Tableau_1.md)
 
 
 ## final project
