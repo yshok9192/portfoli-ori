@@ -43,3 +43,18 @@ And then I entered the  .csv file into Flourish to create a more fleshed-out sam
 
 ###### [Data Source](https://www.cspinet.org/eating-healthy/ingredients-of-concern/caffeine-chart)
 
+### Testing my Solution & Getting Feedback
+
+I then showed the second visualization to two colleagues, neither of which has much of a background in dataviz but who are used to seeing datasets such as this one, to solicit feedback. I did not show them the original visualization, seeking to get just their impressions of what I created in Flourish. 
+
+Questions I asked of my colleagues were:
+* What do you think this visualization is showing you?
+* While navigating this visualization, are you able to understand what the "message" is?
+* Is there anything you are confused about, or that you didn't understand without explanation?
+* Who do you think this visualization is for?
+* What would you change, if anything?
+
+Colleague 1: I'm a little uncertain of what I'm looking at...oh, wait *[clicks through filter]* Ah, I see, this is a filter for the different kinds of caffeinated products, and it says at the bottom that the sizing is dependant on the amount of caffeine in each product. I don't know if the data makes the most sense in this format *[I proceeded to show them a few more possible visualizations]* Okay, I see why you chose this one. I think I get the message of the visualization, it is telling me how much caffeine is in different products...wow, there is a lot of products, I would not have guessed that there was caffeinated sparkling water. I think that if you choose a different color palette for each category, the viewer will see that these are different kinds of products. This looks like it would be helpful to people hoping to change their caffeine intake, or maybe a nutritionist could use this.
+
+Colleague 2: I think this is a chart that gives me a visual ratio of how much caffeine is in a given container in relation to its size.  It tells me lots of caffeine is in lots of things...[it's] surprising that Dunkin rivals Starbucks because I mostly think of them as a donut place, as opposed to a tiny coffee empire. The intended audience is nutritionists, people with caffeine sensitivities, and parents. I might make a key on the side that shows the colors and how they relate to the amount of caffeine (even as just a range like 100-200mg for instance) so I can get a sense of how much caffeine is in there instead of having to zoom in (which is still great for exact numbers). Also the circles look like the top of cups.
+
