@@ -61,6 +61,7 @@ Colleague 2: I think this is a chart that gives me a visual ratio of how much ca
 I agree with both of my colleagues: while I feel this format of hierarchical circles better signifies the amount of caffeine in different products relative to their serving size, there is still not enough of a difference between elements to really drive that point home. There was a general understanding of the "point" of the visual, and in both cases the viewer stated that the original visualization was too crowded:
 
 > Colleague 1: What am I supposed to get from this graph? Why does it look like it is on its side?
+
 > Colleague 2: Yeah, this is way too much to read to get the point; are [the polygons] overlapping for a specific reason, or is it just how the graph is designed?
 
 That said, there *still* was a lack of understanding when initially looking at the dataviz; one colleague recommended I include a legend on the side to orient viewers, and another said I should choose more distinctive colors and possibly make products with more caffeine darker in the viz.
