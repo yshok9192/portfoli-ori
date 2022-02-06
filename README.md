@@ -54,7 +54,7 @@ I struggled to find a visualization method that would capture the complexity of 
 
 ## dataviz no.3 and 4: critique by design
 
-[A larger assignment, where I find a data visualization out in the wild, critique it and try to find areas of improvement, and recreate it!] (/Dataviz_3and4.md)
+[A larger assignment, where I find a data visualization out in the wild, critique it and try to find areas of improvement, and recreate it!](/Dataviz_3and4.md)
 
 ## sketches & practice
 
