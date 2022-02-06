@@ -45,7 +45,7 @@ And then I entered the  .csv file into Flourish to create a more fleshed-out sam
 
 ### Testing my Solution & Getting Feedback
 
-I then showed the second visualization to two colleagues, neither of which has much of a background in dataviz but who are used to seeing datasets such as this one, to solicit feedback. I did not show them the original visualization, seeking to get just their impressions of what I created in Flourish. 
+I then showed the second visualization to two colleagues, neither of which has much of a background in dataviz but who are used to seeing datasets such as this one, to solicit feedback. I did not show them the original visualization until after they saw the recreated one, as a point of comparison
 
 Questions I asked of my colleagues were:
 * What do you think this visualization is showing you?
@@ -58,3 +58,9 @@ Colleague 1: I'm a little uncertain of what I'm looking at...oh, wait *[clicks t
 
 Colleague 2: I think this is a chart that gives me a visual ratio of how much caffeine is in a given container in relation to its size.  It tells me lots of caffeine is in lots of things...[it's] surprising that Dunkin rivals Starbucks because I mostly think of them as a donut place, as opposed to a tiny coffee empire. The intended audience is nutritionists, people with caffeine sensitivities, and parents. I might make a key on the side that shows the colors and how they relate to the amount of caffeine (even as just a range like 100-200mg for instance) so I can get a sense of how much caffeine is in there instead of having to zoom in (which is still great for exact numbers). Also the circles look like the top of cups.
 
+I agree with both of my colleagues: while I feel this format of hierarchical circles better signifies the amount of caffeine in different products relative to their serving size, there is still not enough of a difference between elements to really drive that point home. There was a general understanding of the "point" of the visual, and in both cases the viewer stated that the original visualization was too crowded:
+
+> Colleague 1: What am I supposed to get from this graph? Why does it look like it is on its side?
+> Colleague 2: Yeah, this is way too much to read to get the point; are [the polygons] overlapping for a specific reason, or is it just how the graph is designed?
+
+That said, there *still* was a lack of understanding when initially looking at the dataviz; one colleague recommended I include a legend on the side to orient viewers, and another said I should choose more distinctive colors and possibly make products with more caffeine darker in the viz.
