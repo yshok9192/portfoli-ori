@@ -5,5 +5,6 @@ This assignment was twofold: find a data visualization out in the wild that coul
 ### Here is the original visualization
 
 <img width="432" alt="Screen Shot 2022-02-06 at 15 40 59" src="https://user-images.githubusercontent.com/98067398/152700494-31c252e2-38a6-49ca-b2dd-28d2bda8c940.png">
-##### [Source](https://www.scientificamerican.com/article/graphic-science-caffeine-high-more-and-more-products-contain-large-doses/)
+
+###### [Source](https://www.scientificamerican.com/article/graphic-science-caffeine-high-more-and-more-products-contain-large-doses/)
 
