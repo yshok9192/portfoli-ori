@@ -10,6 +10,8 @@ This assignment was twofold: find a data visualization out in the wild that coul
 
 ### The Critique
 
+The criteria I used to critique this data visualization came from the [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) by Stephen Few. This method of critique looks at six qualities of a visualization, and ranks them on a 1-10 scale: Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics, and Engagement
+
 First, the good:
 * The graph does a decent job at showing not only how many products contain some amount of caffeine, but the vast differences in which products have more or less caffeine.
 * Looking just at the data that are presented here, the reader has everything they would need to understand the point of the visualization--lots of stuff has caffeine in it, even beyond coffee, tea, and energy drinks.
@@ -27,4 +29,8 @@ The data are all laid out for the viewer, and comparing them to a [chart from th
 
 I found the dataset that most lines up with what is presented in this viz from the CSPI chart, but unfortunately there was no table from which I could download these numbers and import them into a .csv file. The workaround I found was to screen shot each table on the site, convert all of the images to a PDF and then further convert the data from images to a text-based format that [Tabula](https://tabula.technology/) could then read. From there I extracted the relevant data into a .csv file so it could be input into a dataviz program.
 
-### 
+### Wireframing a Solution
+
+Coming up with an alternate visualization was, to put it mildly, a challenge; when I first saw this visualization I could tell immediately that it was too much to try and read or understand in too little space. I understand the underlying point to the graph--wow, a lot of stuff sure does have a lot of caffeine--but each element was fighting for my attention. I thought about how to preserve the most important information: Product Type and Name, Caffeine Content (by milligram), and Serving Size (in ounces).
+Simply plotting each caffeine product on a graph without further context would be boring to look at, and a bar or pie chart would not capture all of the finer detail. I decided to visualize the data in a circle hierarchy, first roughly sketching out each larger circle and identifying the inner circles:
+
