@@ -32,5 +32,14 @@ I found the dataset that most lines up with what is presented in this viz from t
 ### Wireframing a Solution
 
 Coming up with an alternate visualization was, to put it mildly, a challenge; when I first saw this visualization I could tell immediately that it was too much to try and read or understand in too little space. I understand the underlying point to the graph--wow, a lot of stuff sure does have a lot of caffeine--but each element was fighting for my attention. I thought about how to preserve the most important information: Product Type and Name, Caffeine Content (by milligram), and Serving Size (in ounces).
+
 Simply plotting each caffeine product on a graph without further context would be boring to look at, and a bar or pie chart would not capture all of the finer detail. I decided to visualize the data in a circle hierarchy, first roughly sketching out each larger circle and identifying the inner circles:
+
+![Hand_drawn_viz](https://user-images.githubusercontent.com/98067398/152703110-03762bd4-9403-49a9-a6bc-30550fb99572.JPG)
+
+And then I entered the  .csv file into Flourish to create a more fleshed-out sample:
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8625916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+###### [Data Source](https://www.cspinet.org/eating-healthy/ingredients-of-concern/caffeine-chart)
 
