@@ -64,4 +64,12 @@ I agree with both of my colleagues: while I feel this format of hierarchical cir
 
 > Colleague 2: Yeah, this is way too much to read to get the point; are [the polygons] overlapping for a specific reason, or is it just how the graph is designed?
 
-That said, there *still* was a lack of understanding when initially looking at the dataviz; one colleague recommended I include a legend on the side to orient viewers, and another said I should choose more distinctive colors and possibly make products with more caffeine darker in the viz.
+That said, there *still* was a lack of understanding when initially looking at the dataviz; one colleague recommended I include a legend on the side to orient viewers, and another said I should choose more distinctive colors and possibly make products with more caffeine darker in the viz. 
+
+With the final version of my recreation, I will (or will try to):
+* Include a legend of each product type, or make each type more distinctice (via different colors)
+* Make each product's representation in the viz size relative to its serving size, i.e. a Starbucks drink that is 16 oz. but has 310 mg. of caffeine will be larger than a Dunkin' Coffee that is 20 oz. but has 270 mg. of caffeine
+
+### The Final Product!
+
+
