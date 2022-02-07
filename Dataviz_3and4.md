@@ -72,4 +72,48 @@ With the final version of my recreation, I will (or will try to):
 
 ### The Final Product!
 
+After showing the mockup viz that I made in Flourish, my classmates agreed that arranging these data into a "packed bubble" format with each bubble's size corresponding to the amount of caffeine in each product gave the viewer a better sense of not just how many products contain caffeine, but the relative serving size of the product compared to its caffeine content. The color palette I chose based on, in my opinion, the colors that come to mind when someone says "coffee" or "energy drink"-- there was some trouble with having each product type have a distinct color, as Tableau seemingly does not have that functionality for this particular visualization, but I believe the colors are distinct enough to get the point across.
 
+<div class='tableauPlaceholder' id='viz1644267080207' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Caffeine_1_16442060206390&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' />
+</object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1644267080207');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+###### [Data Source](https://www.cspinet.org/eating-healthy/ingredients-of-concern/caffeine-chart)
+
+While I am much happier with this visualization, and received feedback saying that my recreation was much easier to understand than the original *Scientific American* version, there are still things I wish I could put onto the screen:
+
+* Changing the size of the font on each bubble to include the entire Product Name. The products with more caffeine content are more descriptive, but a user still has to hover over other bubbles to see what the info contained is. 
+* Selecting all of one Product Type. Tableau seems to only allow a color scheme to be applied to one attribute pill--in this case, because I wanted to highlight the caffeine content I chose to set Color to "Serving Size". Setting the color scheme to "Product Type" caused the bubbles to be roughly equal size in the visualization.
+<img width="526" alt="Screen Shot 2022-02-07 at 16 28 27" src="https://user-images.githubusercontent.com/98067398/152874985-7eabe02c-fae7-49e3-8a28-60366b956af5.png"> 
+<img width="156" alt="Screen Shot 2022-02-07 at 16 28 33" src="https://user-images.githubusercontent.com/98067398/152875043-00b509ed-4791-4049-8496-56dc6f90efd0.png">
+
+###### Product Type is much more distinctive, but still leaves something to be desired...Screenshots from Tableau.
+
+This may be due to my relative lack of experience and knowledge of Tableau, and I hope to improve on that.
+
+#### Alternative Visualization
+
+<div class='tableauPlaceholder' id='viz1644269532281' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='caffeine_2&#47;Sheet6' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
+</object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1644269532281');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+###### [Data Source](https://www.cspinet.org/eating-healthy/ingredients-of-concern/caffeine-chart)
+
+This visualization is a little closer to expressing just how much caffeine is in everyday products, but takes a lot of scrolling...trial and error! 
+
+Anyway, thank you for reading! I hope my visualization(s) are an improvement on the original...will any of this info change my caffeine intake? Remains to be seen!
