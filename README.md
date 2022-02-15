@@ -59,3 +59,5 @@ This assignment focused on visualizing the government debt-to-GDP ratio for memb
 Our final project for Telling Stories with Data involves picking a topic, issue, problem, etc. in the world and discussing it through the lens of data-focused storytelling. My project will focus on the impact coffee has on both the planet and people, not from a health perspective but through the lenses of environmental impacts, ecological changes, and the labor required to produce it. 
 
 [Here is Part I, where I will document the process of ideating and preliminary sketching](/Final_Project.md)
+
+[In Part II, I'll go into more depth on wireframing and storyboarding out what the final product will look like](/Final_Project_2.md)
