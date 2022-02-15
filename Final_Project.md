@@ -25,6 +25,8 @@ Problem - Coffee production complicates the relationship we have with the drink,
 
 Body - Some discussion of coffee's role in colonial projects throughout the 20th century (e.g. Brazil and its long history of coffee production), the environmental impact of coffee production around the world, the effects of climate change on coffee and vice versa, labor practices in America and around the world (e.g. Starbucks has been caught using prison labor)
 
+ALTERNATE: Fair Trade & Organic (FTO) coffee vs. other forms (e.g. Starbucks, Dunkin) -- 
+
 Resolution - Taking action! Pushing for more equitable coffee production practices, calling out corporations for unethical activities, etc.
 
 <img src="https://user-images.githubusercontent.com/98067398/153796334-fc5a6e96-306b-45ac-beed-1e02cdbad99f.jpg" alt="story arc" width="600" height="400">
