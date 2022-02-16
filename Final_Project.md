@@ -8,7 +8,8 @@ I love coffee. I love it a lot--some might say too much. There was a time when I
 
 #### As a commodity, coffee is resource-intensive and can place a burden on the economies and ecosystems in which it is grown and harvested. I don't say this to make anyone feel bad about drinking coffee--least of all, me!--but I believe it is important to understand the larger impact coffee has on the countries and people who have primary, direct interaction with it. Like any widely produced and consumed product, there are benefits and significant drawbacks and I think that, as coffee drinkers, we should remember that when we make our morning cup or walk into a cafe for the midday caffeine hit.
 
-In this project I am going to focus on a few specific dimensions of coffee:
+In this project I am going to focus specifically on [Fair Trade coffee](https://www.fairtrade.net/product/coffee). It is often marketed and described as an alternative to more conventional coffee companies--e.g. Starbucks, Dunkin--for its more equitable labor practices and fair prices to a network of growers around the world. 
+
 * Worldwide consumption (who drinks the most coffee? What does the global market look like?)
 * Production (How much water does coffee need to grow? Who grows the most? How much of their GDP is coffee production?)
 * Ecological Impacts (What does coffee production do to an area? How do other organisms get impacted?)
