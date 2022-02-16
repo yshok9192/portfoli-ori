@@ -10,23 +10,15 @@ I love coffee. I love it a lot--some might say too much. There was a time when I
 
 In this project I am going to focus specifically on [Fair Trade coffee](https://www.fairtrade.net/product/coffee). It is often marketed and described as an alternative to more conventional coffee companies--e.g. Starbucks, Dunkin--for its more equitable labor practices and fair prices to a network of growers around the world. 
 
-* Worldwide consumption (who drinks the most coffee? What does the global market look like?)
-* Production (How much water does coffee need to grow? Who grows the most? How much of their GDP is coffee production?)
-* Ecological Impacts (What does coffee production do to an area? How do other organisms get impacted?)
-* Climate Change (What effects will rising CO2 have on coffee? Bees are disappearing--what does that mean for coffee?)
-* Labor (Is coffee production exploitative? What labor issues arise in the industry?)
-
 This will not be a deep deep dive into the world of coffee, as that would be a book-length exploration of the different ways it affects our world, but I hope to highlight a few key aspects of the industry and our relationship to it as consumers. 
 
 #### The Story Arc
 
-Intro & Setup - A brief overview and history of coffee production and consumption...and I mean *brief*, because coffee has been cultivated and consumed by humans for thousands of years, and this is not a history of coffee! Readers will see a series of data visualizations showing how much coffee has proliferated not just our taste buds and city landscapes, but the economies of several countries and the physical landscape of the earth itself. This will come in the form of quick facts (e.g. 1.4 billion cups of coffee were consumed a day in 2021), maps showing where coffee is most consumed and produced, the health benefits (or detriments!) of the drink, and more. 
+Intro & Setup - A brief overview and history of coffee production and consumption...and I mean *brief*, because coffee has been cultivated and consumed by humans for thousands of years, and this is not a history of coffee! Readers will see a series of data visualizations showing how much coffee has proliferated not just our taste buds and city landscapes, but the economies of several countries and the physical landscape of the earth itself. This will come in the form of quick facts (e.g. 1.4 billion cups of coffee were consumed a day in 2021), maps showing where coffee is most consumed and produced, the health benefits (or detriments!) of the drink, and more. I will also delve a little into my personal coffee story!
 
 Problem - Coffee production complicates the relationship we have with the drink, and that should be a cause for concern but not total hopelessness! It is, however, an industry with serious issues around environmental degradation, ecological issues, and exploitative labor proactices (including child labor, in some cases) *I will add a content warning here* Like any commodity, there are inherent capitalist pressures to minimize costs and maximize profits, and because coffee is such a widely consumed commodity the issues inherent in capitalism are all on display.
 
-Body - Some discussion of coffee's role in colonial projects throughout the 20th century (e.g. Brazil and its long history of coffee production), the environmental impact of coffee production around the world, the effects of climate change on coffee and vice versa, labor practices in America and around the world (e.g. Starbucks has been caught using prison labor)
-
-ALTERNATE: Fair Trade & Organic (FTO) coffee vs. other forms (e.g. Starbucks, Dunkin) -- 
+A solution that has been proposed over the last few decades is the push for Fair Trade certified coffee, from roasters and distributors that work directly with coffee farmers and works to ensure fair prices, equitable and non-exploitative labor practices, and combats climate change from coffee production (as it is a resource-intensive cash crop). The differences between Fair Trade and "conventional" brands are stark, but I want to dive deeper into whether Fair Trade is actually an alternative to conventional brands like Starbucks.
 
 Resolution - Taking action! Pushing for more equitable coffee production practices, calling out corporations for unethical activities, etc.
 
