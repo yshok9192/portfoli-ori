@@ -53,7 +53,7 @@ I will be using Tableau and Flourish primarily for producing data visualizations
 
 I plan on making use of license-free and publicly available images and visuals from sites like Creative Commons and Unsplash, as I think incorporating as much of a visual element as possible will enhance the overall story I am telling.
 
-Let's go! ☕
+In [Part II](/Final_Project_2.md) I will sketch out a rough draft of what the final project site will look like, focusing on a wireframe of the final product, user research into who I want to reach, and a moodboard of my final product. Let's go! ☕
 
 
 
