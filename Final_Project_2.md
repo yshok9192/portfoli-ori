@@ -72,7 +72,19 @@ Thank you for your time in looking at this data visualization mockup! I apprecia
 
 ## Moodboard
 
+I want my final product for this project to have a certain aesthetic to it, employing earthier tones and evoking images of hills and jungles ripe with coffee plants. Other visualizations and infographics I have seen discussing coffee tend to use browns and greens, colors associated with the plant before and after picking and harvesting. Additionally, cafe and craft coffee imagery is prevalent, so I will attempt to incorporate that vibe into the final iteration. 
 
+Below is a moodboard I created in Canva!
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 80.0000%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE4uXnu6Jw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE4uXnu6Jw&#x2F;view?utm_content=DAE4uXnu6Jw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Telling Stories w&#x2F;Data Final Project Moodboard</a> by Youssef Shokry
 
 
 
