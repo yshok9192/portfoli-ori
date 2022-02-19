@@ -23,7 +23,7 @@ I also want to create a moodboard for this project--something to give the viewer
 ## Protocol
 
 ### Who is my Audience?
-Coffee drinkers, generally! More specifically, coffee drinkers who might have some vague notion of what goes on behind the scenes with some of the most consumed brands in the world, but not a grasp on the bigger picture of just how global the issues in the coffee supply chain are. For example, there is a vague notion of Starbucks not having the best labor practices in their supply chain, but the situation changes when one learns that Starbucks has been [caught using coerced and slave labor in Brazil](https://fairworldproject.org/starbucks-has-a-slave-labor-problem/).
+Coffee drinkers, generally! More specifically, coffee drinkers who might have some vague notion of what goes on behind the scenes with some of the most consumed brands in the world, but not a grasp on the bigger picture of just how global the issues in the coffee supply chain are. For example, there is a vague notion of Starbucks not having the best labor practices in their supply chain, but the situation changes when one learns that Starbucks has been [caught using slave labor in Brazil](https://fairworldproject.org/starbucks-has-a-slave-labor-problem/).
 
 Now, I think it is important to mention here that **My goal is not to make anyone feel bad or guilty for buying or drinking coffee from large companies--individual consumer choices are just one element (and a small one) in a capitalist system that values and promotes actors who pursue low-cost and high-profit at the expense of individuals, communites, and the planet. Trying to move away from supporting large corporations is important, but there are very real cost and convenience factors that come into play! I hope to provide context and info to viewers of this visualization and provide things they can do to take action in their own lives.**
 
@@ -31,8 +31,8 @@ Now, I think it is important to mention here that **My goal is not to make anyon
 My interviewees will be people who drink coffee on a regular basis, both conventional brands and companies as well as Fair Trade and small roasters/cafes. They will have a mix of knowledge, familiarity, and understanding of both data visualization and the underlying issues in the coffee industry. 
 
 * Interviewee #1 is a close colleague of mine, someone pursuing a PhD but whose focus is not related to dataviz but who cares about the issue of labor rights, environmental degradation and climate change, and supporting local business. They "love a good infographic", so their perspective will help guide my final product's layout and messaging.
-* Interviewee #2 is  
-* Interviewee #3 is
+* Interviewee #2 works with large datasets as part of their job, has more familiarity with dataviz, and also has an interest in the topic of coffee and fair trade practices. 
+* Interviewee #3 is 
 
 ### The Script
 I am using a Google Doc to share the link to my mock-up and ask interview questions of each interviewee; this will allow me to compile each interviewee's responses into one place and organize them into themes that will inform my next iteration of the final product. My script to each interviewee is as follows:
