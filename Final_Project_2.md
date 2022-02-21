@@ -88,6 +88,21 @@ Obviously, *adding visualizations to my next mock-up is going to be Priority #1.
 - Additional data and narrative around the issues with the Fair Trade certification, e.g. how it can negatively impact small-scale farmers while profiting distributors and large cooperatives. What is present at the moment is bare bones, and I know there is more I can add in.
 - More calls to action! The two that I included are too vague and the section itself is not complete--I am not happy with it, and I need to dive deeper into what researchers, growers, and non-governmental organizations are reporting about Fair Trade and the ways it can be improved.
 
+Below are some of the data visualizations I plan on adding to the next iteration.
+
+<div class='tableauPlaceholder' id='viz1645410566221' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalCoffeeConsumption&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' />
+</object></div>
+<script type='text/javascript'>
+   var divElement = document.getElementById('viz1645410566221');
+   var vizElement = divElement.getElementsByTagName('object')[0];
+   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+   var scriptElement = document.createElement('script');
+   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+   vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8763015"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Moodboard
@@ -105,6 +120,3 @@ Below is a moodboard I created in Canva!
 </div>
 
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE4uXnu6Jw&#x2F;view?utm_content=DAE4uXnu6Jw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Telling Stories w&#x2F;Data Final Project Moodboard</a> by Youssef Shokry
-
-
-
