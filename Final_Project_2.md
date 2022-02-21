@@ -105,12 +105,15 @@ Below are some of the data visualizations I plan on adding to the next iteration
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8763015"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 *Global Coffee Prices 2010-2022, per pound USD*
 
 <img src="https://user-images.githubusercontent.com/98067398/154981780-751af4b4-a4fe-45e2-9501-8536de39cc82.png" alt="Coffee Prices, 2010-2022" width="750" height="500">
 
 <a href='https://www.macrotrends.net/2535/coffee-prices-historical-chart-data'>Source</a>
+
+Price per Pound (Cents, USD) to coffee growers in Brazil
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8770101"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
