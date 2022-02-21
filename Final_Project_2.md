@@ -18,7 +18,7 @@ My process at this stage will be to:
 
 I also want to create a moodboard for this project--something to give the viewer/reader a sense of what is in my head aesthetically. Get ready for lots of images of coffee being roasted, made, picked, etc. ☕
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Protocol
 
@@ -32,7 +32,7 @@ My interviewees will be people who drink coffee on a regular basis, both convent
 
 * Interviewee #1 is a close colleague of mine, someone pursuing a PhD but whose focus is not related to dataviz but who cares about the issue of labor rights, environmental degradation and climate change, and supporting local business. They "love a good infographic", so their perspective will help guide my final product's layout and messaging.
 * Interviewee #2 works with large datasets as part of their job, has more familiarity with dataviz, and also has an interest in the topic of coffee and fair trade practices. 
-* Interviewee #3 is 
+* Interviewee #3 is an avid coffee drinker, and tries to purchase and consume Fair Trade coffee as much as they can. They don't have any real familiarity with dataviz.
 
 ### The Script
 I am using a Google Doc to share the link to my mock-up and ask interview questions of each interviewee; this will allow me to compile each interviewee's responses into one place and organize them into themes that will inform my next iteration of the final product. My script to each interviewee is as follows:
@@ -66,9 +66,29 @@ Thank you for your time in looking at this data visualization mockup! I apprecia
 
 ### Interview Findings--Critique and Feedback
 
+Reading over my colleagues' notes and feedback for my wireframe sample, a few key points stuck out in particular:
+   - Visualizations will help the viewer better digest the information, and my story did not have many visualizations--either dataviz or images. One colleague told me that they *"frankly feel a little irritated - like there was more information right there and I just couldn’t have it."* This is something I knew going in but should definitely keep in mind and make sure to put extra time into when creating my visualizations for the final product.
+   - There is a general understanding of the issues I present in my sample, and the narrative I present was coherent and easy to follow. Again, the element of dataviz and images is something I need to focus on, but knowing that the story itself is follow-able is a good sign.
+   - Elements of the content itself, for example the difference between "Fair Trade" and "Fair Trade Premium", could be better explained--one colleaugue wrote that "some of the language wasn’t completely accessible, I didn't know what arable meant." This tells me that I need to fill out more of the narrative structure I have created.
+
+#### More Specific Quotes and Areas of Improvement
+
+| Interview Question|Response from Colleague |
+| ------------- | ------------- |
+| **Presentation of Information**|"Easily digestible (pun intended). The font is a little kooky as it appears to be shifting and could perhaps be swapped for a more mature-looking sans serif. The journey is laid out well, and it’s an approachable and kind tone." "The informal language style at certain moments makes this feel more accessible and conversational. Graphics and charts are helpful with this kind of info." "Very thorough. The presenter is well-informed and looks at the topic from multiple angles."|
+|**Summation of Project in One Sentence**|"Fair trade is one way that we have attempted to address the negative impact of coffee production, which is promising though imperfect." "An informative critique of Fair Trade coffee." "While coffee consumption may be enormously popular, there are significant improvements to be made and Fair Trade practices are one of the answers."|
+|**Data Visualization**|"[The placeholders] frankly felt a little irritating - like there was more information right there and I just couldn’t have it." "Part of me wanted to know more about companies with fair trade violations--if there was a visual on that. If there was one about where the money is really going--if that was broken down in a visualization." "Visualizations with color components are helpful to drawing in the eye, and for quick and easy dissection."|
+|**Words/Phrases to Keep in Mind**|"Concrete examples that go with the content. Personable language was very helpful." "Impact, supporting photos, next steps." "Audience, feelings, empowered choices...Make me want to look at it"| 
+
 ### Changes to Make
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Obviously, *adding visualizations to my next mock-up is going to be Priority #1.* I knew that this sample would be inherently lacking due to the absence of visual elements that add the data element to my story that is the central focus of this project. Additionally, I need to revisit the outline I created for this project and add in the following:
+
+- Discussion/data sources for my text about Starbucks getting caught using exploitative labor, but more broadly more concrete pieces of info to fill out my story. I have some ideas of what to add, and research with data tables to draw from, so I just need to incorporate those elements into the next iteration of my story page.
+- Additional data and narrative around the issues with the Fair Trade certification, e.g. how it can negatively impact small-scale farmers while profiting distributors and large cooperatives. What is present at the moment is bare bones, and I know there is more I can add in.
+- More calls to action! The two that I included are too vague and the section itself is not complete--I am not happy with it, and I need to dive deeper into what researchers, growers, and non-governmental organizations are reporting about Fair Trade and the ways it can be improved.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Moodboard
 
