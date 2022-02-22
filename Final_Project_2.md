@@ -1,8 +1,8 @@
 ## Final Project, Pt. 2: Wireboarding & Sketching Out
 
-To go back to the main page, click [here](https://github.com/yshok9192/portfoli-ori/blob/main/README.md#portfoli-ori)
+To go back to the main page, click [here](https://yshok9192.github.io/portfoli-ori/)
 
-For Part I, click [here](https://github.com/yshok9192/portfoli-ori/blob/main/Final_Project.md#final-project-pt-1-outlining--sketching)
+For Part I, click [here](https://yshok9192.github.io/portfoli-ori/Final_Project.html)
 
 Now that I have my project narrowed down in scope a little more and created a rough road map of the story I want to tell--Fair Trade is a viable, if imperfect, alternative to conventional coffee--I need to mock-up a sample final product, made in a style that is reminiscent of the storytelling site [Shorthand](https://shorthand.com/), and share that with three friends/colleagues/internet strangers (not actually that last one) to get user feedback that will inform the actual final product. 
 
