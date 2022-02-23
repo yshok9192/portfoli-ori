@@ -105,7 +105,7 @@ Below are some of the data visualizations I plan on adding to the next iteration
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8763015"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-*Global Coffee Prices 2010-2022, per pound USD*
+Price per Pound (Cents, USD) to coffee growers in Brazil
 
 <div class='tableauPlaceholder' id='viz1645580920312' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CoffeePrices&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' />
 </object></div>
@@ -118,13 +118,24 @@ Below are some of the data visualizations I plan on adding to the next iteration
    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-Price per Pound (Cents, USD) to coffee growers in Brazil
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/8770101"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Countries reported to have used forced or child labor in the coffee supply chain
 
 <div class="flourish-embed flourish-map" data-src="visualisation/8769360"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+*Also thinking of using this map I made in Tableau*
+
+<div class='tableauPlaceholder' id='viz1645582514858' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CoffeeForcedandChildLabor&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
+</object></div>                
+<script type='text/javascript'>                    
+   var divElement = document.getElementById('viz1645582514858');                    
+   var vizElement = divElement.getElementsByTagName('object')[0];                    
+   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+   var scriptElement = document.createElement('script');                    
+   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
