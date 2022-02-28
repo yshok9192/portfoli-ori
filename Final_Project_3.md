@@ -12,4 +12,8 @@ I also changed some of the text itself to create a more conversational tone, as 
 
 ### My Final Audience
 
-I wanted to keep the core audience the same, as I believe 
+My audience remained very similar to what I described in Part II--coffee drinkers who might have some vague notion of what goes on behind the scenes with some of the most consumed brands in the world, but not a grasp on the bigger picture of just how global the issues in the coffee supply chain are. The major changes I made were more on the side of crafting a narrative that fit what my colleagues told me could be improved on, like "simplifying" my message and making visualizations that were more dynamic and fit the story. 
+
+### Design Decisions
+
+I wanted the color scheme of my final product to reflect the topic itself: lots of light and bright shades of brown, forest greens, and even some splashes of red to capture the color of ripened coffee cherries before they are turned into coffee beans. 
