@@ -42,7 +42,6 @@ This assignment focused on visualizing the government debt-to-GDP ratio for memb
 
 [The original OECD chart, plus my re-creations, can be found here](/Dataviz_1.md)
 
-
 ## dataviz no.3 and 4: critique by design
 
 [A larger assignment, where I find a data visualization out in the wild, critique it and try to find areas of improvement, and recreate it!](/Dataviz_3and4.md)
@@ -57,6 +56,8 @@ This assignment focused on visualizing the government debt-to-GDP ratio for memb
 ## final project
 
 Our final project for Telling Stories with Data involves picking a topic, issue, problem, etc. in the world and discussing it through the lens of data-focused storytelling. My project will focus on the impact coffee has on both the planet and people, not from a health perspective but through the lenses of environmental impacts, ecological changes, and the labor required to produce it. 
+
+The final product is [here!](https://carnegiemellon.shorthandstories.com/fair-trade-coffee/index.html)
 
 [Here is Part I, where I will document the process of ideating and preliminary sketching](/Final_Project.md)
 
