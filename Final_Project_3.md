@@ -16,4 +16,18 @@ My audience remained very similar to what I described in Part II--coffee drinker
 
 ### Design Decisions
 
-I wanted the color scheme of my final product to reflect the topic itself: lots of light and bright shades of brown, forest greens, and even some splashes of red to capture the color of ripened coffee cherries before they are turned into coffee beans. 
+I wanted the color scheme of my final product to reflect the topic itself: lots of light and bright shades of brown, forest greens, and even some splashes of red to capture the color of ripened coffee cherries before they are turned into coffee beans. The color choice for each visualization followed that logic as well, although I felt like there could be some confusion on the viewer end if they see the map of countries who have been reported to use forced/child labor and wonder if the color choice means anything, and was indeed asked about that during my presentation, so I changed the color scheme slightly to match the info being communicated.
+
+Finding compelling images was a little tricky at times, but I was able to find license-free images on [Unsplash](https://unsplash.com/) and included them in my presentation with proper attribution. I wanted to focus on the coffee itself, but given I do talk about labor rights and wage exploitation I felt it was important to include photos of people picking/growing coffee. 
+
+Probably the most difficult design choices were around the visualizations themselves, a problem I have come up against numerous times during this course but which I found really engaging--it was a different kind of "puzzle", how does one take a dataset and re-organize its components to produce something that is not only informative but "clean"? It's important to capture the essence of the story you want to tell, but too much stripping away and you are left with a graph that doesn't say much of anything. Many of the datasets I used in this story required a lot of adjusting and cleaning up before they could be uploaded into Tableau or Flourish. One of the most frustrating parts of this project was the relative lack of publicly available data--much of the data about Fair Trade coffee sales and specific consumer reports required paying sometimes thousands of dollars.
+
+This graph in particular gave me trouble.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8826146"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This visualization shows the growth in production of Fair Trade coffee using the UTZ Coffee certification scheme. I initially wanted to depict Fair Trade production as a percentage of overall coffee production (including "conventional" coffee). The major issue was finding a dataset that measured global production in the same units ("1000 60 kg" versus "1000 metric tons"), so I decided to just focus on the data I was able to access.
+
+### Last Takeaways
+
+- The information I 
