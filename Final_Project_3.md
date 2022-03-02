@@ -1,10 +1,12 @@
-## Final Project, Pt. 3: Wrapping Up & Presenting it to the World
+## Final Project, Pt. 3: Wrapping Up
 
 To go back to the main page, click [here](https://yshok9192.github.io/portfoli-ori/)
 
 For Part I, click [here](https://yshok9192.github.io/portfoli-ori/Final_Project.html)
 
 For Part II, click [here](https://yshok9192.github.io/portfoli-ori/Final_Project_2.html)
+
+The final data story is [here](https://carnegiemellon.shorthandstories.com/fair-trade-coffee/index.html)
 
 In Part II the focus was prototyping my initial ideas and getting feedback on how to improve--what my final message would be, who the audience was for my data visualization, and what the design itself would look like. The critiques I received from my colleagues helped me narrow down the story I was telling, especially the comments about creating visualizations that were engaging but not overly designed. Simple was better, in this case.
 
@@ -16,7 +18,7 @@ My audience remained very similar to what I described in Part II--coffee drinker
 
 ### Design Decisions
 
-I wanted the color scheme of my final product to reflect the topic itself: lots of light and bright shades of brown, forest greens, and even some splashes of red to capture the color of ripened coffee cherries before they are turned into coffee beans. The color choice for each visualization followed that logic as well, although I felt like there could be some confusion on the viewer end if they see the map of countries who have been reported to use forced/child labor and wonder if the color choice means anything, and was indeed asked about that during my presentation, so I changed the color scheme slightly to match the info being communicated.
+I wanted the color scheme of my final product to reflect the topic itself: lots of light and bright shades of brown, forest greens, and even some splashes of red to capture the color of ripened coffee cherries before they are turned into coffee beans. Creating a mood board definitely helped establish a tone for the visualization. The color choice for each visualization followed that logic as well, although I felt like there could be some confusion on the viewer end if they see the map of countries who have been reported to use forced/child labor and wonder if the color choice means anything, and was indeed asked about that during my presentation, so I changed the color scheme slightly to match the info being communicated.
 
 Finding compelling images was a little tricky at times, but I was able to find license-free images on [Unsplash](https://unsplash.com/) and included them in my presentation with proper attribution. I wanted to focus on the coffee itself, but given I do talk about labor rights and wage exploitation I felt it was important to include photos of people picking/growing coffee. 
 
@@ -28,6 +30,15 @@ This graph in particular gave me trouble.
 
 This visualization shows the growth in production of Fair Trade coffee using the UTZ Coffee certification scheme. I initially wanted to depict Fair Trade production as a percentage of overall coffee production (including "conventional" coffee). The major issue was finding a dataset that measured global production in the same units ("1000 60 kg" versus "1000 metric tons"), so I decided to just focus on the data I was able to access.
 
-### Last Takeaways
+Thank you for going on this journey with me!
 
-- The information I 
+### Sources
+
+- [Bibliography](https://github.com/yshok9192/portfoli-ori/files/8165836/TSWD.Final.Project.Bibliography.docx) (not all sources included were used in the final product, but rather reflects where my thought process was and where the research led me)
+- Source: [ICO - World coffee production](https://www.ico.org/prices/po-production.pdf)
+- Source: [The Coffee Bean Belt: What Is It & Why Is It Important?](https://elevencoffees.com/the-coffee-bean-belt-what-is-it-and-why-is-it-important/)-From this webpage I created a spreadsheet and uploaded it into Tableau, where the program automatically filled in the latitude & longitude data.
+- Source: [Countries Where Coffee is Reportedly Produced with Forced Labor and/or Child Labor](https://www.verite.org/project/coffee-3/)
+- Source: [ICO - Prices Paid to Growers](https://www.ico.org/historical/1990%20onwards/PDF/3a-prices-growers.pdf) and [We love coffee. Are we willing to pay the price?](https://www.fairtrade.net/news/we-love-coffee-are-we-willing-to-pay-the-price)
+- Source: [Production volume of UTZ certified coffee worldwide from 2011 to 2020 (in 1,000 metric tons)](https://www-statista-com.cmu.idm.oclc.org/statistics/758463/utz-certified-coffee-production-volume-worldwide/)
+- Source: [World coffee consumption](https://www.ico.org/prices/new-consumption-table.pdf)
+- Source: [Coffee Prices, 45 Year Historical Chart-Macrotrends](https://www.macrotrends.net/2535/coffee-prices-historical-chart-data)
