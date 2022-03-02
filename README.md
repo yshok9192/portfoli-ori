@@ -46,12 +46,9 @@ This assignment focused on visualizing the government debt-to-GDP ratio for memb
 
 [A larger assignment, where I find a data visualization out in the wild, critique it and try to find areas of improvement, and recreate it!](/Dataviz_3and4.md)
 
-## sketches & practice
-
-### Tableau Practice
+## Tableau Practice
 
 [My foray into using Tableau!](/Dataviz_Tableau_1.md)
-
 
 ## final project
 
@@ -62,3 +59,5 @@ The final product is [here!](https://carnegiemellon.shorthandstories.com/fair-tr
 [Here is Part I, where I will document the process of ideating and preliminary sketching](/Final_Project.md)
 
 [In Part II, I'll go into more depth on wireframing and storyboarding out what the final product will look like](/Final_Project_2.md)
+
+[Part III is the wrap-up, where I discuss the decisions and changes I made to the final product](/Final_Project_3.md)
