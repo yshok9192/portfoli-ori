@@ -22,11 +22,6 @@ i am very interested in the intersection of museum work and [Diversity, Equity, 
 
 i am a relative newcomer to dataviz, and while i am a little nervous to dive headfirst into this world i am also really excited to embark on this journey! i have already gotten started by creating this github page, but am ready to understand some of the visual language and process that undergirds informative, eye-catching, and ultimately beneficial visualizations of the info that is most important to our world today! 
 
-here is an example of a gigamap i made for the class Design Thinking for Complex Systems
-![](https://user-images.githubusercontent.com/98067398/150697172-52d017ec-fd72-491c-842e-f8fb2e0b908a.jpg)
-
-not the most elegant dataviz, but i hope that through taking this class i can learn some of the tools to create something a little more pleasing to the eye :)
-
 # Portfolio
 here is where i will post all of my projects, both for class and for stuff that i find interesting!
 
@@ -36,13 +31,13 @@ A large portion of this course will focus on identifying areas in various data v
 
 [Here is the first of those critiques]
 
-## dataviz no.1: visualizing government debt relative to GDP
+## dataviz: visualizing government debt relative to GDP
 
 This assignment focused on visualizing the government debt-to-GDP ratio for member states of the Organization for Economic Cooperation and Development (OECD). All three of these data visualizations show an overall increase among OECD nations in their debt as a percentage of GDP, a [useful measure](https://data.oecd.org/gga/general-government-debt.htm) of the general economic health of each nation. 
 
 [The original OECD chart, plus my re-creations, can be found here](/Dataviz_1.md)
 
-## dataviz no.3 and 4: critique by design
+## dataviz: critique by design
 
 [A larger assignment, where I find a data visualization out in the wild, critique it and try to find areas of improvement, and recreate it!](/Dataviz_3and4.md)
 
@@ -52,7 +47,7 @@ This assignment focused on visualizing the government debt-to-GDP ratio for memb
 
 ## final project
 
-Our final project for Telling Stories with Data involves picking a topic, issue, problem, etc. in the world and discussing it through the lens of data-focused storytelling. My project will focus on the impact coffee has on both the planet and people, not from a health perspective but through the lenses of environmental impacts, ecological changes, and the labor required to produce it. 
+Our final project for Telling Stories with Data involves picking a topic, issue, problem, etc. in the world and discussing it through the lens of data-focused storytelling. My project will focus on fair trade coffee--its benefits, its drawbacks, and how it could be improved. 
 
 The final product is [here!](https://carnegiemellon.shorthandstories.com/fair-trade-coffee/index.html)
 
