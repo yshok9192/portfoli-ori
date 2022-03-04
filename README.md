@@ -1,7 +1,7 @@
-# [portfoli-ori](https://yshok9192.github.io/portfoli-ori/)
+# portfoli-ori
 A public portfolio for my projects in Telling Stories With Data at CMU!
 
-| First Header  | Second Header |
+| [Dataviz Critique](https://yshok9192.github.io/portfoli-ori/Critique_1.html)|[Dataviz: Gov't Debt and GDP](https://yshok9192.github.io/portfoli-ori/Dataviz_1.html)|[Dataviz: Critique by Design](https://yshok9192.github.io/portfoli-ori/Dataviz_3and4.html)|[Tableau Practice](https://yshok9192.github.io/portfoli-ori/Dataviz_Tableau_1.html)|[Final Project, Pt. I](https://yshok9192.github.io/portfoli-ori/Final_Project.html)|[Final Project, Pt. II](https://yshok9192.github.io/portfoli-ori/Final_Project_2.html)|[Final Project, Pt. III](https://yshok9192.github.io/portfoli-ori/Final_Project_3.html)
 | ------------- | ------------- |
 
 
