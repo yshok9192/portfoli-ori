@@ -1,5 +1,7 @@
 ## Final Project, Pt. 1: Outlining & Sketching
 
+#### Click [here](https://yshok9192.github.io/portfoli-ori/) to go home
+
 <img src="https://user-images.githubusercontent.com/98067398/153788241-ddc1656b-e76c-4d21-8386-7b0cf6fd914c.jpg" alt="coffee" width="350" height="450">
 
 ###### Photo by <a href="https://unsplash.com/@devintavery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Devin Avery</a> on <a href="https://unsplash.com/s/photos/coffee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
