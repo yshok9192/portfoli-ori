@@ -1,5 +1,9 @@
-# portfoli-ori
+# [portfoli-ori](https://yshok9192.github.io/portfoli-ori/)
 A public portfolio for my projects in Telling Stories With Data at CMU!
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+
 
 ## about me
 
