@@ -1,5 +1,7 @@
 ### A Critique of FITARA and CNBC graphics using the Good Charts Matrix
 
+#### Click [here](https://yshok9192.github.io/portfoli-ori/) to go home
+
 The first big assignment for this course was to analyze, critique, and make recommendations for two graphics--one looking at the [usage of different IT management systems in the federal government as required by the Federal IT Acquisition Reform Act (FITARA)](https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/06/agilefall-the-place-between-agile-and-waterfall-development-where-most-agencies-live/), the other from [CNBC](https://www.cnbc.com/2019/01/10/government-shutdown-ties-for-longest-ever-amid-border-wall-fight.html) charting out the varying lengths of government shutdown among recent presidents. 
 
 Here is the first...
