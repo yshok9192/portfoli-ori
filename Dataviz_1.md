@@ -1,5 +1,7 @@
 ## Visualizing Government Data
 
+#### Click [here](https://yshok9192.github.io/portfoli-ori/) to go home
+
 On the OECD website there is an interactive chart where one can select countries to focus on, and even compare to draw conclusions as necessary regarding how well one is doing compared to others. However, it can only show so much in a bar chart and be accessible to the lay public--someone with little knowledge of governmental debt's role in a nation's economy can hover over the United States bar and see that in 2020 its general governmental debt was 162% of GDP, and without more context walk away not fully understanding what that means. The eye jumps immediately to the right side of the graph, which may distort the story that these data are trying to tell.
 
 <iframe src="https://data.oecd.org/chart/6BkS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BkS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, last 5 years</a></iframe>
