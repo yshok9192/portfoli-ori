@@ -29,7 +29,7 @@ here is where i will post all of my projects, both for class and for stuff that 
 
 A large portion of this course will focus on identifying areas in various data visualizations and figuring out how they could be better presented so the end user understands the data. It's important to critique dataviz of all kinds, using a critical eye to help everyone make better visualizations!
 
-[Here is the first of those critiques]
+[Here is the first of those critiques](/Critique_1.md)
 
 ## dataviz: visualizing government debt relative to GDP
 
