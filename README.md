@@ -3,9 +3,9 @@ A public portfolio for my projects in Telling Stories With Data at CMU!
 
 |Dataviz Critiques|Tableau|
 | ------------- | ------------- |
-|[FITARA and CNBC](https://yshok9192.github.io/portfoli-ori/Critique_1.html)|[Practice](https://yshok9192.github.io/portfoli-ori/Dataviz_Tableau_1.html)||
-| [Gov't Debt and GDP](https://yshok9192.github.io/portfoli-ori/Dataviz_1.html)  |
-| [Critique by Design](https://yshok9192.github.io/portfoli-ori/Dataviz_3and4.html)|
+|[FITARA and CNBC](https://yshok9192.github.io/portfoli-ori/Critique_1.html)|[Practice](https://yshok9192.github.io/portfoli-ori/Dataviz_Tableau_1.html)|
+|[Gov't Debt and GDP](https://yshok9192.github.io/portfoli-ori/Dataviz_1.html)|
+|[Critique by Design](https://yshok9192.github.io/portfoli-ori/Dataviz_3and4.html)|
 
 |Final Project|
 | ------------- |
