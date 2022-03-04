@@ -16,4 +16,4 @@ And here is the second...
 
 Not the best visualizations of interesting and pretty important data. Thankfully, I am here to take a stab at finding areas of improvement! 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6Cwqtm7Lx3isT_wssearwxjUYQeYD742CWPYGcBN2uIRntdWTyd4WDmcb2w46VnqTu0fUyZvi31h4/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6Cwqtm7Lx3isT_wssearwxjUYQeYD742CWPYGcBN2uIRntdWTyd4WDmcb2w46VnqTu0fUyZvi31h4/pubhtml?widget=true&amp;headers=false" width="650" height="400"></iframe>
